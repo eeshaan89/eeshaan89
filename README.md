@@ -1,4 +1,4 @@
-### Hello world!
+### Intro
 
 The purpose of this space is to build a portfolio of independent repos that could have a not-for-profit contribution to the scientific community. I wish to build solutions that are within the functional area of operations research / data science. There will be no restrictions on the area of application, as long as the solution is truly non-profit & for the sole purpose of knowledge sharing!
 
