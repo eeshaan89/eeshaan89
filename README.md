@@ -4,7 +4,7 @@ The purpose of this space is to build a portfolio of independent repos that coul
 
 - 🔭 I’m currently working on: _**supply chain optimization in the context of humanitarian operations**_
 - 🌱 I’m currently learning: _**data science**_
-- 👯 I’m looking to collaborate on: _**open-source ERPs that serve small businesses**_
+- 👯 I’m looking to collaborate on: _**open-source ERPs & WMSs that serve small businesses**_
 - 🤔 I’m looking for help with: _**nothing at the moment**_
 - 💬 Ask me about: _**anything at all!**_
 - 📫 How to reach me: _**euasaika@alumni.ncsu.edu**_
